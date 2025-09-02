@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: kullanici-api
+  description: Kullanıcı yönetimi için REST API
+spec:
+  type: openapi
+  lifecycle: production
+  owner: oba-team
+  system: oba-platform
+  definition:
+    $text: https://api.example.com/openapi.yaml
