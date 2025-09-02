@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: boa
+  title: BOA
+  description: BOA - Kurum içi yardımcı program
+  tags:
+    - internal-tool
+    - devcenter
+    - boa
+spec:
+  type: service
+  lifecycle: production
+  owner: yazilim-ekibi
+  system: devcenter
