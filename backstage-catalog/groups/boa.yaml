@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: boa
+  description: BOA Geliştirme Ekibi
+spec:
+  type: team
+  children: []
