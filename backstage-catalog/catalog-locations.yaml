@@ -6,6 +6,6 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/enesbilik/backstage/blob/main/backstage-catalog/groups/boa-ekibi.yaml
+    - https://github.com/enesbilik/backstage/blob/main/backstage-catalog/groups/boa.yaml
     - https://github.com/enesbilik/backstage/blob/main/backstage-catalog/systems/boa.yaml
     - https://github.com/enesbilik/backstage/blob/main/backstage-catalog/components/boa/boa-core.yaml
