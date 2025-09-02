@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: oba-team
+  description: OBA ekibi
+spec:
+  type: team
+  profile:
+    displayName: OBA Ekibi
+  children: []
+  members:
+    - enes.bilik
