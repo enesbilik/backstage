@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: boa
+  description: BOA sistemine ait uygulamalar
+spec:
+  owner: boa
